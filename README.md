@@ -1,5 +1,5 @@
 # PAT--TOP
-[PAT TOP](https://www.patest.cn/)  
+[PAT](https://www.patest.cn/)  
 **Language**: Java or c++  
 
 This repo contains my solutions to PAT problems.  
